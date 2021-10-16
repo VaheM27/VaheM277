@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VaheM27
 - 👀 I’m interested in Front-End Programming
 - 🌱 I’m currently learning Front-End Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , there is my LinkedIn - https://www.linkedin.com/in/vahe-mnatsakanyan-665157202/
 
 <!---
